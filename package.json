@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "./scripts/start.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busyDennis/personal-webpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busyDennis/personal-webpage/issues"
+  },
+  "engines": {
+    "node": "9.x",
+    "npm": "6.x"
+  },
+  "homepage": "https://github.com/busyDennis/personal-webpage#readme",
+  "dependencies": {
+    "bower": "^1.8.4",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}

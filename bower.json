@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "busyDennis <denisbezverbnyy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/busyDennis/personal-webpage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  }
+}
