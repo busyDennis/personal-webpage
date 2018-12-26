@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#container-left {
+  display: inline-block;
+  width: 11em;  
+}
+
+#container-right {
+  display: inline-block;
+}
